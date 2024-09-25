@@ -6,13 +6,10 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Veritaaaas&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Veritaaaas&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 GitHub Stats
 ![Rodney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veritaaaas&show_icons=true&theme=radical)
   
-![Rodney's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Veritaaaas&theme=radical)
 
 ## 💻 Top Skills
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veritaaaas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
