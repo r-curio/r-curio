@@ -23,17 +23,12 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 - **Learning:** Scala, Docker, API Integrations
 
 ## 🚀 Projects
-- **[AWS Community Day 2024 Website](#)**  
+- **[AWS Community Day 2024 Website](#https://community.awsug.ph/2024/manila.html)**  
   Contributing to the frontend development of the official AWS Community Day 2024 website, collaborating with an amazing team to deliver a seamless user experience.
   
-- **[Bakery Sales Prediction Model](#)**  
-  A web app built using Flask that predicts bakery sales using the SARIMAX model. This project helped me deepen my understanding of machine learning and its integration with web applications.
-  
-- **[GoStock](#)**  
+- **[GoStock](#https://stock-trading-website-flame.vercel.app/)**  
   A paper trading web app designed to simulate stock trading, built with Flask, React, and MySQL. It helps users familiarize themselves with the stock market without financial risk.
   
-- **[Routify](#)**  
-  A web app that optimizes delivery routes using the nearest neighbor algorithm to solve the Traveling Salesman Problem (TSP). Built with React and Express.
 
 ## 🌱 What I’m currently learning
 - Diving deeper into cloud computing with AWS and Google Cloud
