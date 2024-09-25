@@ -23,10 +23,10 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 - **Learning:** Scala, Docker, API Integrations
 
 ## 🚀 Projects
-- **[AWS Community Day 2024 Website](#https://community.awsug.ph/2024/manila.html)**  
+- **[AWS Community Day 2024 Website](https://community.awsug.ph/2024/manila.html)**  
   Contributing to the frontend development of the official AWS Community Day 2024 website, collaborating with an amazing team to deliver a seamless user experience.
   
-- **[GoStock](#https://stock-trading-website-flame.vercel.app/)**  
+- **[GoStock](https://stock-trading-website-flame.vercel.app/)**  
   A paper trading web app designed to simulate stock trading, built with Flask, React, and MySQL. It helps users familiarize themselves with the stock market without financial risk.
   
 
