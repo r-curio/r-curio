@@ -4,8 +4,6 @@
 
 I'm a Computer Science student at the Polytechnic University of the Philippines with a passion for building web applications that solve real-world problems. Over the past year, I’ve honed my skills in both frontend and backend development, creating projects that reflect my drive for continuous learning and innovation.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Veritaaaas&label=Profile%20Views&color=0e75b6&style=flat)
-
 
 ## 💻 GitHub Stats
 ![Rodney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veritaaaas&show_icons=true&theme=radical)
