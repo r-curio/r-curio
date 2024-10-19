@@ -3,10 +3,6 @@
 **Aspiring Software Developer | Frontend & Backend Enthusiast | Lifelong Learner**
 
 I'm a Computer Science student at the Polytechnic University of the Philippines with a passion for building web applications that solve real-world problems. Over the past year, I’ve honed my skills in both frontend and backend development, creating projects that reflect my drive for continuous learning and innovation.
-
-
-## 💻 GitHub Stats
-![Rodney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veritaaaas&show_icons=true&theme=radical)
   
 
 ## 💻 Top Skills
