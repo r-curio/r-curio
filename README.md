@@ -15,9 +15,9 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veritaaaas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Flask, Node.js, Python, MySQL, MongoDB
+- **Backend:** Flask, Node.js, Python, MySQL
 - **Other Tools:** Git, Firebase, TailwindCSS, Postgres
-- **Learning:** Scala, Docker, API Integrations
+- **Learning:** Docker, API Integrations
 
 ## 🚀 Projects
 - **[AWS Community Day 2024 Website](https://community.awsug.ph/2024/manila.html)**  
@@ -29,8 +29,7 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 
 ## 🌱 What I’m currently learning
 - Diving deeper into cloud computing with AWS and Google Cloud
-- Exploring new backend frameworks like Django and Scala
-- Expanding my database management skills with Postgres and MongoDB
+- Exploring new backend frameworks like Django and .Net
 
 ## 🛠 How I work
 - **Collaborative:** I’ve worked with teams at GDSC PUP and AWS Volunteer Corps, improving both my technical and teamwork skills.
@@ -38,6 +37,6 @@ I'm a Computer Science student at the Polytechnic University of the Philippines 
 - **Open to leadership:** I’m actively looking to step into leadership roles where I can guide a team and bring new ideas to life.
 
 ## 📫 Let's Connect!
-- **Email:** riodneymaisog@gmail.com
+- **Email:** rodneymaisog@gmail.com
 - **LinkedIn:** [Rodney James M. Maisog](#)
 - **GitHub:** [Veritaaaas](https://github.com/Veritaaaas)
